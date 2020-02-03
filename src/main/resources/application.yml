@@ -1,0 +1,9 @@
+aws:
+  access-key:
+  secret-key:
+  region: eu-west-1
+  sqs:
+    endpoint:
+
+server:
+  port: 1111   # HTTP (Tomcat) port
